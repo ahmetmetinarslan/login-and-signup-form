@@ -7,6 +7,8 @@ Login and Signup Form <br>
 
 Screenshot <br><br>
 
+![alt text](https://github.com/ahmetmetinarslan/login-and-signup-form/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202022-08-21%2018.04.03.png?raw=true)
+
 
 
 
